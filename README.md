@@ -13,5 +13,5 @@
 - Computer graphics and theoretical computer science
 
 📫 How to reach me?
-- Email:jovicstefan657@gmail.com
-- LinkedIn:www.linkedin.com/in/stefan-jović-406b50342
+- Email: jovicstefan657@gmail.com
+- LinkedIn: www.linkedin.com/in/stefan-jović-406b50342
