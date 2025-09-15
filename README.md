@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi, I'm Stefan Jović 👋
 
-<!--
-**stefanjovic03/stefanjovic03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I’m a Computer Science student at Graz University of Technology (3rd year, 5th semester)
+💻 Interested in Cybersecurity, Databases, Artificial Intelligence
+⚡ Skilled in C, C++, Python, HTML, CSS, SQL (PostgreSQL, MySQL)
+🛠 Familiar with Git, Linux, MS Office, UML
 
-Here are some ideas to get you started:
+🌱 Currently learning
+- Advanced algorithms and data structures
+- Computer graphics and theoretical computer science
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 How to reach me?
+- Email:jovicstefan657@gmail.com
+- LinkedIn:www.linkedin.com/in/stefan-jović-406b50342
